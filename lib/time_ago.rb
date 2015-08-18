@@ -6,3 +6,4 @@ module TimeAgo
   	"Here is my first "
   end
 end
+
